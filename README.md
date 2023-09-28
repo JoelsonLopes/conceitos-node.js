@@ -12,6 +12,7 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
+![image](https://github.com/JoelsonLopes/conceitos-node.js/assets/109318293/362a24e4-b055-415b-959d-c00910926098)
 
 
 
